@@ -1,0 +1,15 @@
+
+.navbar{
+  background-color: #2370f4;
+}
+.navbar img{
+  height: 50px;
+  width: 100px;
+}
+.d-flex{
+  padding: 10px;
+}
+.cards img{
+  width: 100%;
+
+}
